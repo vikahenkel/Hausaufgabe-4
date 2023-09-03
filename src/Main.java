@@ -66,7 +66,7 @@ public class Main {
         int place = 125;
         System.out.println(place);
         if (place <= 60) {
-            System.out.println("Есть сидячие место");
+            System.out.println("Есть сидячие место.");
         } else {
             if (place > 60 && place <= 102) {
                 System.out.println("Есть стоячее место.");
